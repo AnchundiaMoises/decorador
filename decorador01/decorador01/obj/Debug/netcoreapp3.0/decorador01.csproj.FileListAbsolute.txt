@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\decorador01\decorador01\bin\Debug\netcoreapp3.0\decorador01.exe
+C:\Users\LENOVO\source\repos\decorador01\decorador01\bin\Debug\netcoreapp3.0\decorador01.deps.json
+C:\Users\LENOVO\source\repos\decorador01\decorador01\bin\Debug\netcoreapp3.0\decorador01.runtimeconfig.json
+C:\Users\LENOVO\source\repos\decorador01\decorador01\bin\Debug\netcoreapp3.0\decorador01.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\decorador01\decorador01\bin\Debug\netcoreapp3.0\decorador01.dll
+C:\Users\LENOVO\source\repos\decorador01\decorador01\bin\Debug\netcoreapp3.0\decorador01.pdb
+C:\Users\LENOVO\source\repos\decorador01\decorador01\obj\Debug\netcoreapp3.0\decorador01.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\decorador01\decorador01\obj\Debug\netcoreapp3.0\decorador01.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\decorador01\decorador01\obj\Debug\netcoreapp3.0\decorador01.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\decorador01\decorador01\obj\Debug\netcoreapp3.0\decorador01.dll
+C:\Users\LENOVO\source\repos\decorador01\decorador01\obj\Debug\netcoreapp3.0\decorador01.pdb
